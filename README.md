@@ -1,4 +1,8 @@
-MultiCraft-JAR Conf
+Forked from
+-----
+[ValentinTh](https://github.com/ValentinTh/MultiCraft-JAR-Conf)
+
+Fabled Custom Multicraft Configs
 =====
 To quickly find multicraft configurations list of server JAR !
 
@@ -49,12 +53,5 @@ Run this bash script in the "~/protected/messages/" directory of your php-front-
 🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-de.sh)   
 🇪🇸 [Install-Es.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-es.sh)
 
------
-⚠️⚠️⚠️ You find a bug ?
------
-Don't be afraid to open an issue !    
-Or send a patch proposal :D    
-
------
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2017 - 2020
