@@ -31,27 +31,27 @@ Add Files
 🃏 Custom
 -----
 These models are adapted to accept self-upload JAR (server or bungee).
-* [My-Jar.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf)
-* [My-Bungee.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf)     
+* [My-Jar.jar](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/custom/my-jar.jar.conf)
+* [My-Bungee.jar](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/custom/my-bungee.jar.conf)     
 
 Special profile for demanding modded servers :
-- [Hardmodded.jar](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf) ⚠️ Made for Java 8 OPENJDK Oracle Only
+- [Hardmodded.jar](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/custom/hardmodded.jar.conf) ⚠️ Made for Java 8 OPENJDK Oracle Only
 -----
 🕓 Quick add & clean profiles scripts
 -----
 Run theses bash scripts in the "~/multicraft" directory of your host server !
-* [Clean.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/clean.sh)
-* [Custom.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/custom.sh)
-* [Spigot.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/spigot.sh)
-* [Vanilla.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/scripts/vanilla.sh)  
+* [Clean.sh](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/scripts/clean.sh)
+* [Custom.sh](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/scripts/custom.sh)
+* [Spigot.sh](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/scripts/spigot.sh)
+* [Vanilla.sh](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/scripts/vanilla.sh)  
 -----
  💬 Translation script
 -----
 Run this bash script in the "~/protected/messages/" directory of your php-front-panel ! (It will create a language folder & get the files)
 
-🇫🇷 [Install-Fr.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-fr.sh)  
-🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-de.sh)   
-🇪🇸 [Install-Es.sh](https://raw.githubusercontent.com/ValentinTh/MultiCraft-JAR-Conf/master/translate/Install-es.sh)
+🇫🇷 [Install-Fr.sh](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/translate/Install-fr.sh)  
+🇩🇪 [Install-De.sh](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/translate/Install-de.sh)   
+🇪🇸 [Install-Es.sh](https://raw.githubusercontent.com/AFlyingPig/MultiCraft-JAR-Conf/master/translate/Install-es.sh)
 
 NB : JAR files, links or anything else of the textual content are not mine but property of respective editors.
 © 2017 - 2020
